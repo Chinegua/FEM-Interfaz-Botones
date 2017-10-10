@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FEM-Interfaz-Botones</string>
+
+    <string name="txtBoton1">Boton 1</string>
+    <string name="txtBoton2">Boton 2</string>
+    <string name="txtBoton3">Boton 3</string>
+    <string name="txtBoton4">Boton 4</string>
+
+</resources>
